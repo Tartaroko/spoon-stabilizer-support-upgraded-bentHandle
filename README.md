@@ -1,11 +1,13 @@
-# Spoon Stablizer Support (The updated design is NOT FINISHED) 
+# Spoon Stablizer Support (The updated design is NOT FINISHED and has NOT BEEN UPLOADED) 
 The Spoon Stabilizer Support is an adapted utensil for people who have difficulties with tremors when eating. It used both passive stabilization and weights to dampen the effect of hand tremors and make it easier to eat.
+The Original design was created by [Ian Faulkner](https://www.printables.com/social/380579-ian-faulkner/about). Supporting documentation was created by [Neil Squire Society](https://www.neilsquire.ca/) / [Makers Making Change](https://www.makersmakingchange.com/).
+Forked from (https://github.com/makersmakingchange/spoon-stabilizer-support)
 
 This device may help people with hand tremors or fine motor challenges due to essential tremors, Parkinson's disease, cerebral palsy, multiple sclerosis, muscular dystrophy, arthritis, stroke, Huntington's diesase, or spinal cord injury.
 
 The design consists of metal cutlery that is cut to length and mounted into a 3D printable handle with some off-the-shelf hardware.
 
-The design was created by [Ian Faulkner](https://www.printables.com/social/380579-ian-faulkner/about). Supporting documentation was created by [Neil Squire Society](https://www.neilsquire.ca/) / [Makers Making Change](https://www.makersmakingchange.com/).
+
 
 <img src="Photos/spoon-stabilizer-support.jpg" width="500" alt="Picture of Spoon Stabilizer Support.">
 

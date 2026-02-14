@@ -1,4 +1,4 @@
-# Spoon Stablizer Support
+# Spoon Stablizer Support (The updated design is NOT FINISHED) 
 The Spoon Stabilizer Support is an adapted utensil for people who have difficulties with tremors when eating. It used both passive stabilization and weights to dampen the effect of hand tremors and make it easier to eat.
 
 This device may help people with hand tremors or fine motor challenges due to essential tremors, Parkinson's disease, cerebral palsy, multiple sclerosis, muscular dystrophy, arthritis, stroke, Huntington's diesase, or spinal cord injury.
